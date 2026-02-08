@@ -10,5 +10,6 @@ It is double sided, but you can also export only single sided layout (B_Cu), so 
 - Onboard LED indication (Lights up when the output is +5V)
 
 ## BOM
-<img width="314" height="194" alt="obrazek" src="https://github.com/user-attachments/assets/a99e6d65-0d9b-4822-b62f-cce0ede09d65" />
+<img width="314" height="219" alt="obrazek" src="https://github.com/user-attachments/assets/82e88a26-c60c-40a0-9e93-48c4179d8441" />
+
 
