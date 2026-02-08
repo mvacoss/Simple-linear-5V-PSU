@@ -1,7 +1,7 @@
 # Simple-linear-5V-PSU
-I've designed this simple linear PSU with LM7805
-Without watermark, without useless names
-It is double sided, but you can also export only single sided layout (B_Cu), so it is ideal for DIY etching
+- I've designed this simple linear PSU with LM7805
+- Without watermark, without useless names
+- It is double sided, but you can also export only single sided layout (B_Cu), so it is ideal for DIY etching
 
 ## Specs
 - ~6V - ~10V IN
