@@ -15,7 +15,7 @@
 <img width="314" height="219" alt="obrazek" src="https://github.com/user-attachments/assets/82e88a26-c60c-40a0-9e93-48c4179d8441" />
 
 ## Dimensions
-39.75 mm (approximately 1.565 in) by 16.75 (approximately 0.66 in)
+39.75 mm (approximately 1.565 in) by 16.75 mm (approximately 0.66 in)
 
 **Preview**
-<img width="1092" height="520" alt="obrazek" src="https://github.com/user-attachments/assets/ac6e3a53-098f-4a35-b27e-0fdb49af2f58" />
+<img width="546" height="260" alt="obrazek" src="https://github.com/user-attachments/assets/ac6e3a53-098f-4a35-b27e-0fdb49af2f58" />
